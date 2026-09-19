@@ -1,0 +1,6 @@
+{
+  "name": "OmniRide Navojoa - Viajes Urbanos y Rutas Compartidas",
+  "description": "Plataforma de transporte urbano y viajes compartidos en Navojoa, Sonora (La Perla del Mayo) con seguimiento satelital en tiempo real, pasarela de pagos segura, recibos en PDF y soporte 24/7.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
